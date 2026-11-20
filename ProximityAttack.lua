@@ -1,0 +1,3 @@
+(Trigger an attack when a target enters attack range) 
+
+In progress... 
