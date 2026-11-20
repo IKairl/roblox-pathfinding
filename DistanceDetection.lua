@@ -1,1 +1,3 @@
-In progress
+(Calculate the distance between two characters)
+
+In progress... 
