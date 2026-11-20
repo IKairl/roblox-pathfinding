@@ -1,1 +1,3 @@
-In progress
+(Detect when a player enters a defined radius) 
+
+In progress... 
